@@ -15,7 +15,7 @@ And yes, a mode toggle feature for light 🌞, dark 🌙, and system preferences
 
 #WebDevelopment #NextJS #SanityCMS #TailwindCSS #TypeScript #UIDesign #DarkMode #LightMode #SystemMode #NewProject #LaunchDay
 
-Linkdin Link :-
+Linkdin Link :- https://www.linkedin.com/feed/update/urn:li:activity:7228724841728602112/
 Live Link :- 
 
 #HRInsights #TalentManagement #ReactJS #NextJS #WebDevelopment #ContinuousLearning #Innovation #EmployeeRetention #TechSkills
