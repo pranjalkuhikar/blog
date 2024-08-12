@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Blog Website
 
-First, run the development server:
+🚀 Exciting News! 🌟 I've launched my new blog website,designed with a passion for great user experience.👉
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 Built with:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Next.js for a blazing-fast web experience 🏃‍♂️💨
+Sanity.io as the CMS backbone, making content management a breeze 📝✅
+Styled with Tailwind CSS for sleek, responsive design 🎨📱
+TypeScript for robust, type-safe coding 🛠️🔒
+Enhanced UI with Shadcn, adding that extra sparkle ✨🌐
+And yes, a mode toggle feature for light 🌞, dark 🌙, and system preferences 🔄, because customization matters!
+🌟 This project is a testament to my journey in web development, combining performance, aesthetics, and functionality. I'm thrilled to share this milestone with you all and would love to hear your feedback! 💬
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#WebDevelopment #NextJS #SanityCMS #TailwindCSS #TypeScript #UIDesign #DarkMode #LightMode #SystemMode #NewProject #LaunchDay
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Linkdin Link :-
+Live Link :- 
 
-## Learn More
+#HRInsights #TalentManagement #ReactJS #NextJS #WebDevelopment #ContinuousLearning #Innovation #EmployeeRetention #TechSkills
 
-To learn more about Next.js, take a look at the following resources:
+![blog](https://github.com/user-attachments/assets/05e819f5-4b0f-411c-93c6-0afbb29a957d)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
