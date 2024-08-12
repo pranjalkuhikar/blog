@@ -22,7 +22,7 @@ export default async function BlogArticle({
 }: {
   params: { slug: string };
 }) {
-  const data: fullBlog[] = await getData(params.slug);
+  const data: fullBlog = await getData(params.slug);
 
   return (
     <div className="mt-8">
